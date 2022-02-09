@@ -1,0 +1,5 @@
+name: IronThief
+version: '${project.version}'
+main: com.olafdsouza.mc.ironthief.IronThief
+api-version: 1.18
+description: Anti-grief plugin
